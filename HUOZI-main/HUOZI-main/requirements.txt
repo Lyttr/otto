@@ -1,0 +1,6 @@
+pypinyin
+playsound
+Flask
+numpy
+soundfile
+psola
